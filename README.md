@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/siddu7999/siddu7999/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
 # 👋 Hey there, I'm Siddartha Sodum!
 
 🚀 **Full-Stack Developer | Flutter | FastAPI | React | MongoDB | Supabase**  
@@ -14,6 +16,16 @@ I am a **Software Engineer and a Master's student at the University of Oklahoma*
 📄 **[View My Resume]([https://your-resume-link.com](https://github.com/siddu7999/siddu7999/blob/main/resume_siddartha_sodum.pdf))**  
 
 ---
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/siddartha-reddy-sodum-ab8089214" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 ## 🛠 Technologies & Tools
 
